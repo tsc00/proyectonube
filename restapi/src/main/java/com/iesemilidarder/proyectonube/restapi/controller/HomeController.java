@@ -16,6 +16,7 @@ import java.util.List;
  * Description:
  **/
 
+//Esta clase se utiliza para coger los datos de la base de datos
 
 @Controller
 public class HomeController {
