@@ -18,6 +18,7 @@ import org.springframework.security.config.annotation.web.configuration.WebSecur
  * Description:
  **/
 
+//Esta clase sirve para que los usuarios que intenten iniciar sesion se han validados o no
 
 @Configuration
 @EnableWebSecurity
