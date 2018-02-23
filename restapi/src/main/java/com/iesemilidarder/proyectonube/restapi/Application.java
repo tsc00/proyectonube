@@ -12,6 +12,8 @@ import org.springframework.boot.web.support.SpringBootServletInitializer;
  * Description:
  **/
 
+//Esta clase sirve para poder arrancar la aplicacion
+
 @SpringBootApplication
 public class Application extends SpringBootServletInitializer {
     @Override
