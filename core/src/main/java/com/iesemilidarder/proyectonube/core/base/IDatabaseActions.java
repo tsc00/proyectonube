@@ -7,6 +7,7 @@ import java.util.List;
  * Created by Tomás in 22/2/2018
  * Description:
  **/
+//Creamos ina interface
 public interface IDatabaseActions {
     public void save();
     public void delete();
