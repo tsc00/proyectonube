@@ -19,7 +19,7 @@ public class User extends DBObject {
     }
 
     /**
-     * sets the id, owasp
+     * sets the id
      *
      * @param id
      */
@@ -32,7 +32,7 @@ public class User extends DBObject {
     }
 
     /**
-     * sets the username, owaaaaaasp
+     * sets the username
      *
      * @param username
      */
@@ -45,7 +45,7 @@ public class User extends DBObject {
     }
 
     /**
-     * sets the email, owaaaaaasp
+     * sets the email
      *
      * @param email
      */
@@ -58,7 +58,7 @@ public class User extends DBObject {
     }
 
     /**
-     * sets the password, owaaaaaasp
+     * sets the password
      *
      * @param password
      */
