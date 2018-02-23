@@ -20,6 +20,8 @@ import java.util.List;
  * Description:
  **/
 
+//Creamos esta clase para que mapee las diferentes anotaciones que hay en las clases(Restaurantes)
+
 public class ResultSetMapper<T> {
     @SuppressWarnings("unchecked")
     public List<T> mapResultSetToObject(ResultSet rs, Class outputClass) {
