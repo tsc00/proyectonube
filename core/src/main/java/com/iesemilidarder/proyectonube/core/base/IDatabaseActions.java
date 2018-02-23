@@ -2,14 +2,18 @@ package com.iesemilidarder.proyectonube.core.base;
 import java.util.List;
 
 /**
- * dummies
- * com.iesemilidarder.fordummies.core
- * Created by alber in 19/12/2017.
+ * proyectonube
+ * com.iesemilidarder.proyectonube.core.base
+ * Created by Tomás in 22/2/2018
  * Description:
- */
+ **/
 public interface IDatabaseActions {
     public void save();
     public void delete();
     public void update();
     public List<DBObject> getAll();
 }
+/*
+Tomás Sastre Cámara
+2n ASIX
+*/

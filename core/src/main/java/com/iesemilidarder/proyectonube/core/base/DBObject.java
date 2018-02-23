@@ -6,12 +6,12 @@ package com.iesemilidarder.proyectonube.core.base;
  import java.util.List;
 
 /**
- * dummies
- * com.iesemilidarder.fordummies.core
- * Created by alber in 15/12/2017.
+ * proyectonube
+ * com.iesemilidarder.proyectonube.core.base
+ * Created by Tomás in 22/2/2018
  * Description:
- * Basic class for saving object into an H2 or Derby system by default
- */
+ **/
+
 public abstract class DBObject implements IDatabaseActions {
     private final Logger log = LoggerFactory.getLogger(DBObject.class);
 
@@ -45,4 +45,7 @@ public abstract class DBObject implements IDatabaseActions {
     }
 
 }
-
+/*
+Tomás Sastre Cámara
+2n ASIX
+*/

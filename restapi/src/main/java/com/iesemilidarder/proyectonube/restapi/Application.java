@@ -8,7 +8,7 @@ import org.springframework.boot.web.support.SpringBootServletInitializer;
 /**
  * proyectonube
  * com.iesemilidarder.proyectonube.restapi
- * Created by ${User} in 22/2/2018
+ * Created by Tomás in 22/2/2018
  * Description:
  **/
 
@@ -22,3 +22,7 @@ public class Application extends SpringBootServletInitializer {
         SpringApplication.run(Application.class, args);
     }
 }
+/*
+Tomás Sastre Cámara
+2n ASIX
+*/

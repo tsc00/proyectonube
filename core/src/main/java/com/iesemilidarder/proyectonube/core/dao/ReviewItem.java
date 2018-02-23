@@ -3,9 +3,9 @@ package com.iesemilidarder.proyectonube.core.dao;
 import com.iesemilidarder.proyectonube.core.base.DBObject;
 
 /**
- * zero-project
- * com.iesemilidarder.projectzero.core
- * Created by ${User} in 26/1/2018
+ * proyectonube
+ * com.iesemilidarder.proyectonube.core.dao
+ * Created by Tomás in 22/2/2018
  * Description:
  **/
 public class ReviewItem extends DBObject {
@@ -41,3 +41,7 @@ public class ReviewItem extends DBObject {
         doLog("todo!");
     }
 }
+/*
+Tomás Sastre Cámara
+2n ASIX
+*/

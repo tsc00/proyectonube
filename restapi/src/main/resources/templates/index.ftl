@@ -46,7 +46,6 @@
         <div class="container">
             <h1 class="display-3">Restaurantes de Mallorca</h1>
             <p><h3>En esta pagina conoceremos los mejores restaurantes de Mallorca segun el criterio de los clientes.</h3>
-            <h8>Les recordamos que las opiniones son 100% propias de los clientes y no nos hacemos responsable de sus comentarios</h8> </p>
 <div class="row">
 <#if model??>
     <div class="row center mt-1">

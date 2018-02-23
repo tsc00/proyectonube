@@ -4,6 +4,12 @@ import java.util.ArrayList;
 import javax.persistence.Column;
 import javax.persistence.Entity;
 import com.iesemilidarder.proyectonube.core.base.DBObject;
+/**
+ * proyectonube
+ * com.iesemilidarder.proyectonube.core.dao
+ * Created by Tomás in 22/2/2018
+ * Description:
+ **/
 
 /*
 Creamos la clase restaurants con los string privadas y sus getters y setters

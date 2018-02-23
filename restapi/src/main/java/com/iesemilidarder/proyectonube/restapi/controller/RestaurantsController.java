@@ -8,6 +8,12 @@ import org.springframework.web.bind.annotation.RestController;
 
 import java.util.List;
 
+/**
+ * proyectonube
+ * com.iesemilidarder.proyectonube.restapi.controller
+ * Created by Tomás in 22/2/2018
+ * Description:**/
+
 @RestController
 @RequestMapping(path = "/rest/api/v1")
 public class RestaurantsController {
@@ -19,3 +25,7 @@ public class RestaurantsController {
         return readRestaurants;
     }
 }
+/*
+Tomás Sastre Cámara
+2n ASIX
+*/

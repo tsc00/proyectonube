@@ -7,6 +7,13 @@ import org.springframework.web.servlet.config.annotation.WebMvcConfigurer;
 import org.springframework.web.servlet.config.annotation.WebMvcConfigurerAdapter;
 import org.springframework.web.servlet.view.freemarker.FreeMarkerViewResolver;
 
+/**
+ * proyectonube
+ * com.iesemilidarder.proyectonube.restapi.controller
+ * Created by Tomás in 22/2/2018
+ * Description:
+ **/
+
 
 @Configuration
 public class StartConfig {

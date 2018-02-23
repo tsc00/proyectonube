@@ -4,6 +4,12 @@ import org.springframework.context.annotation.Configuration;
 import org.springframework.web.servlet.config.annotation.ViewControllerRegistry;
 import org.springframework.web.servlet.config.annotation.WebMvcConfigurerAdapter;
 
+/**
+ * proyectonube
+ * com.iesemilidarder.proyectonube.restapi.controller
+ * Created by Tomás in 22/2/2018
+ * Description:
+ **/
 
 @Configuration
 public class MvcConfig extends WebMvcConfigurerAdapter {

@@ -9,6 +9,13 @@ import org.springframework.web.bind.annotation.RequestMapping;
 
 import java.util.List;
 
+/**
+ * proyectonube
+ * com.iesemilidarder.proyectonube.restapi.controller
+ * Created by Tomás in 22/2/2018
+ * Description:
+ **/
+
 
 @Controller
 public class HomeController {
@@ -20,3 +27,7 @@ public class HomeController {
         return "index";
     }
 }
+/*
+Tomás Sastre Cámara
+2n ASIX
+*/

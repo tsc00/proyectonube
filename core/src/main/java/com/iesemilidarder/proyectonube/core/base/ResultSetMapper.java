@@ -13,6 +13,13 @@ import java.sql.SQLException;
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * proyectonube
+ * com.iesemilidarder.proyectonube.core.base
+ * Created by Tomás in 22/2/2018
+ * Description:
+ **/
+
 public class ResultSetMapper<T> {
     @SuppressWarnings("unchecked")
     public List<T> mapResultSetToObject(ResultSet rs, Class outputClass) {
@@ -74,3 +81,7 @@ public class ResultSetMapper<T> {
         return outputList;
     }
 }
+/*
+Tomás Sastre Cámara
+2n ASIX
+*/

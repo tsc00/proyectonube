@@ -10,6 +10,13 @@ import java.sql.Statement;
 import java.sql.ResultSet;
 import java.util.ArrayList;
 import java.util.List;
+/**
+ * proyectonube
+ * com.iesemilidarder.proyectonube.core.base
+ * Created by Tomás in 22/2/2018
+ * Description:
+ **/
+
 /*
 Importamos las siguientes librerias para que funcione en programa
 */
@@ -371,6 +378,5 @@ Arraylist para proyecto
 /*
 Tomás Sastre Cámara
 2n ASIX
-WAI
 */
 

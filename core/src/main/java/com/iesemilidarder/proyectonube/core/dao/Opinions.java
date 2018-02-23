@@ -1,9 +1,9 @@
 package com.iesemilidarder.proyectonube.core.dao;
 
 /**
- * zero-project
- * com.iesemilidarder.projectzero.core
- * Created by ${User} in 26/1/2018
+ * proyectonube
+ * com.iesemilidarder.proyectonube.core.dao
+ * Created by Tomás in 22/2/2018
  * Description:
  **/
 /*
@@ -41,3 +41,7 @@ public class Opinions {
     }
 
 }
+/*
+Tomás Sastre Cámara
+2n ASIX
+*/

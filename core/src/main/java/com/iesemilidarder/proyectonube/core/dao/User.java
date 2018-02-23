@@ -3,11 +3,11 @@ package com.iesemilidarder.proyectonube.core.dao;
 import com.iesemilidarder.proyectonube.core.base.DBObject;
 
 /**
- * dummies
- * com.iesemilidarder.fordummies.web
- * Created by alber in 15/12/2017.
+ * proyectonube
+ * com.iesemilidarder.proyectonube.core.dao
+ * Created by Tomás in 22/2/2018
  * Description:
- */
+ **/
 public class User extends DBObject {
     private int id;
     private String username;
@@ -71,4 +71,7 @@ public class User extends DBObject {
         System.out.println("Saving users");
     }
 }
-
+/*
+Tomás Sastre Cámara
+2n ASIX
+*/

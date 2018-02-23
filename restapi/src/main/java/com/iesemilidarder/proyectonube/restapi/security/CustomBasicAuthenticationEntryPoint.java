@@ -10,6 +10,13 @@ import javax.servlet.http.HttpServletResponse;
 import java.io.IOException;
 import java.io.PrintWriter;
 
+/**
+ * proyectonube
+ * com.iesemilidarder.proyectonube.restapi.security
+ * Created by Tomás in 22/2/2018
+ * Description:
+ **/
+
 
 public class CustomBasicAuthenticationEntryPoint extends BasicAuthenticationEntryPoint {
 
@@ -31,3 +38,7 @@ public class CustomBasicAuthenticationEntryPoint extends BasicAuthenticationEntr
         super.afterPropertiesSet();
     }
 }
+/*
+Tomás Sastre Cámara
+2n ASIX
+*/

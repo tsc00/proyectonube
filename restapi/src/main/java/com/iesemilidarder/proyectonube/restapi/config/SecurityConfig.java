@@ -11,6 +11,13 @@ import org.springframework.security.config.annotation.web.builders.WebSecurity;
 import org.springframework.security.config.annotation.web.configuration.EnableWebSecurity;
 import org.springframework.security.config.annotation.web.configuration.WebSecurityConfigurerAdapter;
 
+/**
+ * proyectonube
+ * com.iesemilidarder.proyectonube.restapi.controller
+ * Created by Tomás in 22/2/2018
+ * Description:
+ **/
+
 
 @Configuration
 @EnableWebSecurity
