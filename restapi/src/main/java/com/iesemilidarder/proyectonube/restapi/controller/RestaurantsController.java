@@ -14,6 +14,8 @@ import java.util.List;
  * Created by Tomás in 22/2/2018
  * Description:**/
 
+//Esta clase sirve para decirle que url utiliza rest-api
+
 @RestController
 @RequestMapping(path = "/rest/api/v1")
 public class RestaurantsController {
