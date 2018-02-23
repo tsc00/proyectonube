@@ -8,6 +8,9 @@ import com.iesemilidarder.proyectonube.core.base.DBObject;
  * Created by Tomás in 22/2/2018
  * Description:
  **/
+
+//Creamos esta clase bean que se extienda a DBObject 
+
 public class ReviewItem extends DBObject {
     private int id;
     private String name;
