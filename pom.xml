@@ -62,8 +62,6 @@
         </pluginRepository>
     </pluginRepositories>
 
-
-
     <dependencies>
 
         <dependency>
